@@ -1,0 +1,13 @@
+E:\Developer\NetCoreAPIMySQL.Data\bin\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.deps.json
+E:\Developer\NetCoreAPIMySQL.Data\bin\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.dll
+E:\Developer\NetCoreAPIMySQL.Data\bin\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.pdb
+E:\Developer\NetCoreAPIMySQL.Data\bin\Release\netcoreapp3.1\NetCoreAPIMySQL.Model.dll
+E:\Developer\NetCoreAPIMySQL.Data\bin\Release\netcoreapp3.1\NetCoreAPIMySQL.Model.pdb
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.csproj.AssemblyReference.cache
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.AssemblyInfoInputs.cache
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.AssemblyInfo.cs
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.csproj.CoreCompileInputs.cache
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.csproj.CopyComplete
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.dll
+E:\Developer\NetCoreAPIMySQL.Data\obj\Release\netcoreapp3.1\NetCoreAPIMySQL.Data.pdb

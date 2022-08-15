@@ -1,0 +1,10 @@
+E:\Developer\NetCoreAPIMySQL.Model\bin\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.deps.json
+E:\Developer\NetCoreAPIMySQL.Model\bin\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.dll
+E:\Developer\NetCoreAPIMySQL.Model\bin\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.pdb
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.dll
+E:\Developer\NetCoreAPIMySQL.Model\obj\Debug\netcoreapp3.1\NetCoreAPIMySQL.Model.pdb
